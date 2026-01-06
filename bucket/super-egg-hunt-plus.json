@@ -1,0 +1,18 @@
+{
+    "version": "1.6",
+    "description": "An accessible audio game where you hunt for Easter eggs",
+    "homepage": "https://l-works.net",
+    "license": "Freeware",
+    "url": "https://l-works.net/files/superegghuntsetup.exe",
+    "hash": "5aafd9e02dae909c65c1cf921b19511edb74a81c5839d51cc8557ebf0f66fa60",
+    "innosetup": true,
+    "extract_dir": "{app}",
+    "bin": "superegghunt.exe",
+    "shortcuts": [
+        [
+            "superegghunt.exe",
+            "Super Egg Hunt Plus"
+        ]
+    ],
+    "persist": "data"
+}
